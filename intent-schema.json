@@ -12,7 +12,7 @@
 
     {
       "intent": "RemoveServicesIntent",
-      "slot": [
+      "slots": [
         {
           "name": "Service",
           "type": "LIST_OF_SERVICES"
