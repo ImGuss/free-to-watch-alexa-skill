@@ -1,0 +1,20 @@
+AddServicesIntent to add {Service}
+AddServicesIntent to add {Service} to my list of services
+AddServicesIntent to add {Service} to my list
+AddServicesIntent to add {Service} to my services
+RemoveServicesIntent to remove {Service}
+RemoveServicesIntent to remove {Service} from my list of services
+RemoveServicesIntent to remove {Service} from my list
+RemoveServicesIntent to remove {Service} from my services
+RemoveServicesIntent to delete {Service}
+RemoveServicesIntent to delete {Service} from my list of services
+RemoveServicesIntent to delete {Service} from my list
+RemoveServicesIntent to delete {Service} from my services
+StreamIntent if I can watch {Stream}
+StreamIntent if I can watch {Stream} for free
+StreamIntent if {Stream} is available
+StreamIntent if {Stream} is available for free
+StreamIntent if {Stream} is free
+StreamIntent if {Stream} is free to watch
+StreamIntent where I can watch {Stream}
+StreamIntent where I can watch {Stream} for free
