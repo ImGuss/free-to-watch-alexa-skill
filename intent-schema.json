@@ -1,10 +1,20 @@
 {
   "intents": [
     {
-      "intent": "ServicesIntent",
+      "intent": "AddServicesIntent",
       "slots": [
         {
-          "name": "Services",
+          "name": "Service",
+          "type": "LIST_OF_SERVICES"
+        }
+      ]
+    },
+
+    {
+      "intent": "RemoveServicesIntent",
+      "slot": [
+        {
+          "name": "Service",
           "type": "LIST_OF_SERVICES"
         }
       ]
@@ -15,10 +25,10 @@
       "slots": [
         {
           "name": "Stream",
-          "type": ""
+          "type": "AMAZON.Movie"
         }
       ]
-    }
+    },
 
     { "intent": "AMAZON.YesIntent" },
 
